@@ -17,10 +17,10 @@ p {
 
 
 
-#id {
+#photo-size {
 
-	property: value ;
-
+	max-width: 250px ;
+	max-height: 300px ;
 	}
 
 
